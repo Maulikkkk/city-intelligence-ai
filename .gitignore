@@ -43,7 +43,5 @@ temp/
 tmp/
 
 # Rich / debug outputs
-*.txt
-
 # OS generated files
 Thumbs.db

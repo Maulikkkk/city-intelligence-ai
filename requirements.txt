@@ -1,0 +1,52 @@
+# Core LLM + LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Mistral AI
+mistralai
+
+# Vector Database (choose one or keep multiple)
+chromadb
+
+# Embeddings + NLP
+sentence-transformers
+tiktoken
+
+# Web Framework (choose one)
+fastapi
+uvicorn
+
+# OR if you prefer Flask
+# flask
+
+# Environment variables
+python-dotenv
+
+# Data handling
+pandas
+numpy
+
+# File parsing (for RAG)
+pypdf
+docx2txt
+unstructured
+
+# HTTP requests
+
+
+# Optional: frontend integration (if using templates)
+jinja2
+
+# Optional: streamlit (if you want quick UI)
+streamlit
+
+# Optional: OpenAI-compatible support (Mistral works similarly)
+streamlit
+langchains
+langchain-mistralai
+tavily-python
+python-dotenv
+requests
+rich
