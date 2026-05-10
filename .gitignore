@@ -1,0 +1,49 @@
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IntelliJ / PyCharm
+.idea/
+
+# Logs
+*.log
+
+# SQLite
+*.sqlite3
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+temp/
+tmp/
+
+# Rich / debug outputs
+*.txt
+
+# OS generated files
+Thumbs.db
